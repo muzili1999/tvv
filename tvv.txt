@@ -676,53 +676,53 @@ Yushu TV Jilin 2,http://stream.zhystv.com/ysyt/sd/live.m3u8
 龙岩综合,http://stream.lytv.net.cn/2/sd/live.m3u8
 
 湖北电信,#genre#
-0 CCTV-1HD,http://223.110.243.138:80/PLTV/3/224/3221226316/index.m3u8?servicetype=1&amp;icpid=88888888&amp;from=1&amp;hms_devid=3444
-1 CCTV-2HD,rtp://239.69.1.102:10250
-2 CCTV-3HD,rtp://239.69.1.122:10370
-3 CCTV-4HD,rtp://239.69.1.138:10466
-4 CCTV-5HD,rtp://239.69.1.123:10376
-5 CCTV-6HD,rtp://239.69.1.124:10382
-6 CCTV-7HD,rtp://239.69.1.103:10256
-7 CCTV-8HD,rtp://239.69.1.125:10388
-8 CCTV-9HD,rtp://239.69.1.104:10262
-9 CCTV-10HD,rtp://239.69.1.105:10268
-10 CCTV-11HD,rtp://239.69.1.154:10560
-11 CCTV-12HD,rtp://239.69.1.106:10274
-12 CCTV-13HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
-13 CCTV-14HD,rtp://239.69.1.107:10280
-14 CCTV-15HD,rtp://239.69.1.155:10566
-16 CCTV-17HD,rtp://239.69.1.152:10548
-17 CCTV-5十HD,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
-18 湖北卫视HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8
-19 湖北经视HD,rtp://239.69.1.41:9886
-20 湖北综合HD,rtp://239.69.1.42:9892
-21 湖北垄上HD,rtp://239.69.1.43:9898
-22 湖北公共HD,rtp://239.69.1.40:9880
-23 湖北影视HD,rtp://239.69.1.204:10866
-24 湖北教育HD,rtp://239.69.1.206:10878
-25 湖北生活HD,rtp://239.69.1.205:10872
-37 天津卫视HD,rtp://239.69.1.68:10048
-38 山东卫视HD,rtp://239.69.1.69:10054
-39 安徽卫视HD,rtp://239.69.1.70:10060
-40 辽宁卫视HD,rtp://239.69.1.71:10066
-41 东南卫视HD,rtp://239.69.1.108:10286
-42 江西卫视HD,rtp://239.69.1.126:10394
-43 重庆卫视HD,rtp://239.69.1.149:10530
-44 贵州卫视HD,rtp://239.69.1.150:10536
-45 河南卫视HD,rtp://239.69.1.168:10644
-46 四川卫视HD,rtp://239.69.1.169:10650
-47 河北卫视HD,rtp://239.69.1.157:10578
-48 海南卫视HD,rtp://239.69.1.151:10542
-49 广西卫视HD rtsp://27.31.211.146:554/live/ch20092714274365027603.sdp?playtype=1&boid=001&backupagent=121.60.255.132:1556&clienttype=1&time=20210823215759+08&life=172800&ifpricereqsnd=1&vcdnid=vcdn001&userid=xg1807090493&mediaid=ch20092714274365027603&ctype=2&TSTVTimeLife=3600&contname=&authid=0&terminalflag=1&UserLiveType=1&stbid=00100300000090001117F44C708A5FCF&nodelevel=3&profilecode=&AuthInfo=jTtM5kDEsWZGGcJsqF1mkSodHMCGgeyy4amM5fGqTX%2B%2FS1zW0cNGfGik8zux1NpY1M0M%2B%2B9t5Y19IFufUxyB4g%3D%3D&bitrate=2000&distype=0
-50 吉林卫视HD,rtp://239.69.1.212:10914
-51 金鹰纪实HD,rtp://239.69.1.109:10292
-52 纪实人文HD,rtp://239.253.156.252:9592
-53 中国教育-1HD,rtp://239.69.1.110:10298
-54 体育赛事HD,rtp://239.69.1.172:10668
-55 CCTV4中文国际欧洲HD,rtp://239.69.1.231:11028
-56 CCTV4中文国际美洲HD,rtp://239.69.1.232:11034
-57 CGTN英文纪录HD,rtp://239.69.1.233:11040
-58 CGTN西班牙语HD,rtp://239.69.1.234:11046
-59 CGTN法语HD,rtp://239.69.1.235:11052
-60 CGTN阿拉伯语HD,rtp://239.69.1.221:10968
-61 CGTN俄语HD,rtp://239.69.1.222:10974
+CCTV-1HD,http://223.110.243.138:80/PLTV/3/224/3221226316/index.m3u8?servicetype=1&amp;icpid=88888888&amp;from=1&amp;hms_devid=3444
+CCTV-2HD,rtp://239.69.1.102:10250
+CCTV-3HD,rtp://239.69.1.122:10370
+CCTV-4HD,rtp://239.69.1.138:10466
+CCTV-5HD,rtp://239.69.1.123:10376
+CCTV-6HD,rtp://239.69.1.124:10382
+CCTV-7HD,rtp://239.69.1.103:10256
+CCTV-8HD,rtp://239.69.1.125:10388
+CCTV-9HD,rtp://239.69.1.104:10262
+CCTV-10HD,rtp://239.69.1.105:10268
+CCTV-11HD,rtp://239.69.1.154:10560
+CCTV-12HD,rtp://239.69.1.106:10274
+CCTV-13HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
+CCTV-14HD,rtp://239.69.1.107:10280
+CCTV-15HD,rtp://239.69.1.155:10566
+CCTV-17HD,rtp://239.69.1.152:10548
+CCTV-5十HD,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
+湖北卫视HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8
+湖北经视HD,rtp://239.69.1.41:9886
+湖北综合HD,rtp://239.69.1.42:9892
+湖北垄上HD,rtp://239.69.1.43:9898
+湖北公共HD,rtp://239.69.1.40:9880
+湖北影视HD,rtp://239.69.1.204:10866
+湖北教育HD,rtp://239.69.1.206:10878
+湖北生活HD,rtp://239.69.1.205:10872
+天津卫视HD,rtp://239.69.1.68:10048
+山东卫视HD,rtp://239.69.1.69:10054
+安徽卫视HD,rtp://239.69.1.70:10060
+辽宁卫视HD,rtp://239.69.1.71:10066
+东南卫视HD,rtp://239.69.1.108:10286
+江西卫视HD,rtp://239.69.1.126:10394
+重庆卫视HD,rtp://239.69.1.149:10530
+贵州卫视HD,rtp://239.69.1.150:10536
+河南卫视HD,rtp://239.69.1.168:10644
+四川卫视HD,rtp://239.69.1.169:10650
+河北卫视HD,rtp://239.69.1.157:10578
+海南卫视HD,rtp://239.69.1.151:10542
+广西卫视HD rtsp://27.31.211.146:554/live/ch20092714274365027603.sdp?playtype=1&boid=001&backupagent=121.60.255.132:1556&clienttype=1&time=20210823215759+08&life=172800&ifpricereqsnd=1&vcdnid=vcdn001&userid=xg1807090493&mediaid=ch20092714274365027603&ctype=2&TSTVTimeLife=3600&contname=&authid=0&terminalflag=1&UserLiveType=1&stbid=00100300000090001117F44C708A5FCF&nodelevel=3&profilecode=&AuthInfo=jTtM5kDEsWZGGcJsqF1mkSodHMCGgeyy4amM5fGqTX%2B%2FS1zW0cNGfGik8zux1NpY1M0M%2B%2B9t5Y19IFufUxyB4g%3D%3D&bitrate=2000&distype=0
+吉林卫视HD,rtp://239.69.1.212:10914
+金鹰纪实HD,rtp://239.69.1.109:10292
+纪实人文HD,rtp://239.253.156.252:9592
+中国教育-1HD,rtp://239.69.1.110:10298
+体育赛事HD,rtp://239.69.1.172:10668
+CCTV4中文国际欧洲HD,rtp://239.69.1.231:11028
+CCTV4中文国际美洲HD,rtp://239.69.1.232:11034
+CGTN英文纪录HD,rtp://239.69.1.233:11040
+CGTN西班牙语HD,rtp://239.69.1.234:11046
+CGTN法语HD,rtp://239.69.1.235:11052
+CGTN阿拉伯语HD,rtp://239.69.1.221:10968
+CGTN俄语HD,rtp://239.69.1.222:10974
